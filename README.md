@@ -1,29 +1,23 @@
-# crm-clientes
+# 📊 Customer Relationship Management (CRM)
 
-This template should help get you started developing with Vue 3 in Vite.
+Manage your customer relationships seamlessly with our CRM application. Add clients through a user-friendly form, including their name, last name, job title, and company. Once added, you'll be redirected to the main page displaying all client data. 
 
-## Recommended IDE Setup
+## 🚀 Features
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+- **📝 Client Profiles:** Create and maintain detailed client profiles with ease.
+- **🔄 Edit and Delete:** Update or remove client information as needed.
+- **📈 Client Status:** Activate or deactivate clients with a single click.
+- **🏢 Company Information:** Keep track of clients' associated companies.
+- **🔎 Easy Search:** Quickly find and access client profiles using search functionality.
 
-## Customize configuration
+## 📋 Usage
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+1. Add a new client by filling out the form with their details.
+2. Manage client profiles from the main page: edit, delete, activate, or deactivate clients.
+3. Easily navigate through client data using the search feature.
 
-## Project Setup
+## 💼 Business Benefits
 
-```sh
-npm install
-```
+Streamline your customer management processes, enhance relationships, and improve your business's efficiency with our CRM tool.
 
-### Compile and Hot-Reload for Development
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
